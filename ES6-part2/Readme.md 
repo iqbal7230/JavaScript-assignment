@@ -1,0 +1,12 @@
+Exercise Questions:
+
+1. Filter unique array members using Set.
+2. Filter anagrams using Map.
+3. Write a program to implement inheritance upto 3 classes.The Class must contain private and public variables and static functions.
+4. Write a program to implement a class having static functions
+5. Import a module containing the constants and method for calculating area of circle, rectangle, cylinder.
+6. Import a module for filtering unique elements in an array.
+7. Write a program to flatten a nested array to single level using arrow functions.
+
+
+
