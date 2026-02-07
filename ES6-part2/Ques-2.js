@@ -22,3 +22,6 @@ function areAnagrams(str1, str2) {
 
 let result = areAnagrams("listen", "silentab");
 console.log(result);
+
+// output
+// false
